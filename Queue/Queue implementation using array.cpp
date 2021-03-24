@@ -94,8 +94,8 @@ int main(){
 	int value , option;
 	do{
 		
-		cout << "\n\nWhat operation do you want to perform? Select Option number."<<endl;
-	    cout<<"  0. Exit program." << endl;
+		cout <<"\n\nWhat operation do you want to perform? Select Option number."<<endl;
+	    cout<<" 0. Exit program." << endl;
         cout << "1. Enqueue()" << endl;
         cout << "2. Dequeue()" << endl;
         cout << "3. isEmpty()" << endl;
